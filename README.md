@@ -60,14 +60,19 @@
 </p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunnyKoirala&show_icons=true&locale=en&layout=compact" alt="sunnykoirala" /></p
-
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sunnykoirala&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sunnykoirala&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=sunnykoirala&layout=compact&langs_count=6" alt="Top Languages" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app?user=sunnykoirala&theme=default" alt="GitHub Streak" />
 </p>
 
 
