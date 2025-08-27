@@ -62,9 +62,14 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunnyKoirala&show_icons=true&locale=en&layout=compact" alt="sunnykoirala" /></p
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SunnyKoirala&show_icons=true&locale=en" alt="sunnykoirala" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunnykoirala&show_icons=true&locale=en" alt="sunnykoirala" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=SunnyKoirala" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sunnykoirala&theme=default" alt="GitHub Streak" />
+</p>
+
 
 <div>
   <br clear="both">
