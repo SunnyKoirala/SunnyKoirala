@@ -63,12 +63,13 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SunnyKoirala&show_icons=true&locale=en&layout=compact" alt="sunnykoirala" /></p
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnykoirala&show_icons=true&locale=en" alt="sunnykoirala" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=sunnykoirala&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sunnykoirala&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sunnykoirala&theme=default" alt="GitHub Streak" />
 </p>
+
 
 
 <div>
