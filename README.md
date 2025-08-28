@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunny Koirala</h1>
+<h1 align="center">Hi 👋, I'm Sunny </h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on [WanderLust](https://github.com/SunnyKoirala/WanderLust.git)
