@@ -16,7 +16,7 @@
 - 🤝 Seeking guidance in: **System Design & Cloud**  
 - 💬 Ask me about: **Node.js | MongoDB | MySQL**  
 - 📫 How to reach me: **sunnykoirala777@gmail.com**  
-- 🎯 Fun Fact: *I debug faster with coffee ☕ in hand*  
+- 🎯 Hobbies & Interests: *Calisthenics 💪 | Yoga 🧘‍♂️ | Trading 📈 | Coding 💻*  
 
 ---
 
@@ -97,4 +97,4 @@
 
 ---
 
-<h3 align="center">🔥 “Turning coffee ☕ into code 💻 & ideas 🚀 into reality” 🔥</h3>
+<h3 align="center">🔥 “Turning Calisthenics 💪, Yoga 🧘‍♂️, Trading 📈 & Coding 💻 into reality 🚀” 🔥</h3>
