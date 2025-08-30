@@ -7,7 +7,7 @@
 - 🔭 Currently building: [**WanderLust**](https://github.com/SunnyKoirala/WanderLust.git)  
 - 🌱 Learning: **React.js, Express.js**  
 - 👯 Open to collaborate on: **Web Development Projects**  
-- 🤝 Seeking guidance in: **Advanced Web Development & DSA**  
+- 🤝 Seeking guidance in: **Advanced Web Development**  
 - 💬 Ask me about: **Node.js, MongoDB, MySQL**  
 - 📫 Reach me at: **sunnykoirala777@gmail.com**  
 - ⚡ Fun fact: *"The first commit on GitHub was made on April 19, 2008, simply saying `initial commit` 🚀"*  
