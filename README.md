@@ -1,15 +1,19 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Sunny;💻+Full+Stack+Developer;🚀+Tech+Explorer;🌱+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Sunny;💻+Full+Stack+Developer;🚀+Tech+Explorer;🌱+Lifelong+Learner" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://github.com/SunnyKoirala/SunnyKoirala/blob/main/assets/banner.gif" alt="Cool Banner" width="800"/>
+</p>
 
 ---
 
 ### ⚡ About Me  
-- 🔭 Currently working on: [**WanderLust**](https://github.com/SunnyKoirala/WanderLust.git)  
-- 🌱 Exploring: **React.js, Express.js**  
-- 👯 Open to collaborate on: **MERN Projects & Open Source**  
-- 🤝 Seeking guidance in: **System Design & Scalability**  
+- 🔭 Currently building: [**WanderLust**](https://github.com/SunnyKoirala/WanderLust.git)  
+- 🌱 Learning: **React.js, Express.js**  
+- 👯 Looking to collaborate on: **MERN Stack Projects & Open Source**  
+- 🤝 Seeking guidance in: **System Design & Cloud**  
 - 💬 Ask me about: **Node.js | MongoDB | MySQL**  
 - 📫 How to reach me: **sunnykoirala777@gmail.com**  
 - 🎯 Fun Fact: *I debug faster with coffee ☕ in hand*  
@@ -33,7 +37,22 @@
 
 ### 🛠️ Tech Arsenal  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,mysql,postgres,php,java,git,github,vscode,figma" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>
 </p>
 
 ---
