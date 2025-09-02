@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/s_u_n.n_y.1/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInstagram&psig=AOvVaw0G-Miv-vrVpcnd-tp9g7Ca&ust=1756890791177000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLie-KzeuY8DFQAAAAAdAAAAABAE?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30" height="30" />
   </a>
 </p>
 
