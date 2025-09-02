@@ -28,9 +28,10 @@
   <a href="mailto:sunnykoirala777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/s_u_n.n_y.1/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30" height="30" />
-  </a>
+  <a href="https://www.instagram.com/s_u_n.n.y.1/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" />
+</a>
+
 </p>
 
 ---
