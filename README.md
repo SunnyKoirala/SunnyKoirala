@@ -15,7 +15,7 @@
 ---
 
 ### ⚡ About Me  
-- 🔭 Currently building: [**WanderLust**](https://github.com/SunnyKoirala/WanderLust.git)  
+- 🔭 Currently building: [**Major_Project**](https://github.com/SunnyKoirala/Major_Project.git)  
 - 🌱 Learning: **React.js, Express.js**  
 - 👯 Looking to collaborate on: **MERN Stack Projects & Open Source**  
 - 🤝 Seeking guidance in: **System Design & Cloud**  
