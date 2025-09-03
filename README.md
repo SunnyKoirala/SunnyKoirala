@@ -1,9 +1,9 @@
-<!-- Profile Views -->
-<p align="center">
+<!-- Profile Views (Left Aligned) -->
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=sunnykoirala&color=brightgreen" alt="Profile views" />
 </p>
 
-<!-- Animated Typing Header -->
+<!-- Animated Typing Header (Centered) -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Sunny;💻+Full+Stack+Developer;🚀+Tech+Explorer;🌱+Lifelong+Learner" alt="Typing SVG" />
 </h1>
