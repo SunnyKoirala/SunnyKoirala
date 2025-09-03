@@ -1,3 +1,8 @@
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sunnykoirala&color=brightgreen" alt="Profile views" />
+</p>
+
 <!-- Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Sunny;💻+Full+Stack+Developer;🚀+Tech+Explorer;🌱+Lifelong+Learner" alt="Typing SVG" />
@@ -28,14 +33,9 @@
   <a href="mailto:sunnykoirala777@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- <a href="https://www.instagram.com/s_u_n.n_y.1/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-
-
-
-
+  <a href="https://www.instagram.com/s_u_n.n_y.1/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
