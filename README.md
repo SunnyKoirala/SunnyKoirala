@@ -1,6 +1,6 @@
 <!-- Profile Views (Left Aligned) -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sunnykoirala&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SunnyKoirala&color=brightgreen" alt="Profile views" />
 </p>
 
 <!-- Animated Typing Header (Centered) -->
@@ -64,15 +64,15 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnykoirala&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SunnyKoirala&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnykoirala&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunnyKoirala&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnykoirala&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunnyKoirala&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
