@@ -68,7 +68,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SunnyKoirala&theme=tokyonight&hide_border=true" height="180" />
+  <!-- Fixed Streak Card (new source) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=SunnyKoirala&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
