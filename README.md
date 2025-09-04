@@ -65,6 +65,9 @@
 ### 📊 GitHub Analytics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sunnykoirala&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunnykoirala&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
