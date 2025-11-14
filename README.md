@@ -19,7 +19,7 @@
 - 🌱 Learning: **Python, Pandas, Data Structures, Databases**  
 - 👯 Looking to collaborate on: **Open Source Machine Learning And Deep Learning Projects**  
 - 🤝 Seeking guidance in: **Statistics, Data Science Roles, Data Visualization, Big Data **  
-- 💬 Ask me about:  Excel | Power BI| Data Fluency | MySQL**  
+- 💬 Ask me about:  Excel | Power BI | Data Fluency | MySQL**  
 - 📫 How to reach me: **sunnykoirala777@gmail.com**  
 - 🎯 Hobbies & Interests: *Calisthenics 💪 | Yoga 🧘‍♂️ | Trading 📈 | Data Visualization 💻*  
 
