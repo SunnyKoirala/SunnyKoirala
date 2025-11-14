@@ -16,12 +16,12 @@
 
 ### ⚡ About Me  
 - 🔭 Currently building: [**Major_Project**](https://github.com/SunnyKoirala/Major_Project.git)  
-- 🌱 Learning: **React.js, Express.js**  
-- 👯 Looking to collaborate on: **MERN Stack Projects & Open Source**  
-- 🤝 Seeking guidance in: **System Design & Cloud**  
-- 💬 Ask me about: **Node.js | MongoDB | MySQL**  
+- 🌱 Learning: **Python, Pandas, Data Structures, Databases**  
+- 👯 Looking to collaborate on: **Open Source Machine Learning And Deep Learning Projects**  
+- 🤝 Seeking guidance in: **Statistics, Data Science Roles, Data Visualization, Big Data **  
+- 💬 Ask me about:  Excel | Power BI| Data Fluency | MySQL**  
 - 📫 How to reach me: **sunnykoirala777@gmail.com**  
-- 🎯 Hobbies & Interests: *Calisthenics 💪 | Yoga 🧘‍♂️ | Trading 📈 | Coding 💻*  
+- 🎯 Hobbies & Interests: *Calisthenics 💪 | Yoga 🧘‍♂️ | Trading 📈 | Data Visualization 💻*  
 
 ---
 
