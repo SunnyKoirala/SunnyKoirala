@@ -15,7 +15,7 @@
 ---
 
 ### ⚡ About Me  
-- 🔭 Currently building: [**Major_Project**](https://github.com/SunnyKoirala/Major_Project.git)  
+- 🔭 Currently building: [**ChatBot**](https://github.com/SunnyKoirala/simplechatbot.git)  
 - 🌱 Learning: **Python, Pandas, Data Structures, Databases**  
 - 👯 Looking to collaborate on: **Open Source Machine Learning And Deep Learning Projects**  
 - 🤝 Seeking guidance in: **Statistics, Data Science Roles, Data Visualization, Big Data **  
